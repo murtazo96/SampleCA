@@ -1,0 +1,7 @@
+{
+  "CleanArchitecture.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\projects\\CleanArchitecture\\src\\CleanArchitecture.Core",
+  "CleanArchitecture.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\projects\\CleanArchitecture\\src\\CleanArchitecture.Infrastructure",
+  "CleanArchitecture.SharedKernel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\projects\\CleanArchitecture\\src\\CleanArchitecture.SharedKernel",
+  "CleanArchitecture.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\projects\\CleanArchitecture\\tests\\CleanArchitecture.UnitTests",
+  "CleanArchitecture.Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\projects\\CleanArchitecture\\src\\CleanArchitecture.Web"
+}

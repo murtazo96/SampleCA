@@ -1,0 +1,15 @@
+C:\projects\CleanArchitecture\src\CleanArchitecture.Core\bin\Debug\net6.0\CleanArchitecture.Core.deps.json
+C:\projects\CleanArchitecture\src\CleanArchitecture.Core\bin\Debug\net6.0\CleanArchitecture.Core.dll
+C:\projects\CleanArchitecture\src\CleanArchitecture.Core\bin\Debug\net6.0\ref\CleanArchitecture.Core.dll
+C:\projects\CleanArchitecture\src\CleanArchitecture.Core\bin\Debug\net6.0\CleanArchitecture.Core.pdb
+C:\projects\CleanArchitecture\src\CleanArchitecture.Core\bin\Debug\net6.0\CleanArchitecture.SharedKernel.dll
+C:\projects\CleanArchitecture\src\CleanArchitecture.Core\bin\Debug\net6.0\CleanArchitecture.SharedKernel.pdb
+C:\projects\CleanArchitecture\src\CleanArchitecture.Core\obj\Debug\net6.0\CleanArchitecture.Core.csproj.AssemblyReference.cache
+C:\projects\CleanArchitecture\src\CleanArchitecture.Core\obj\Debug\net6.0\CleanArchitecture.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\CleanArchitecture\src\CleanArchitecture.Core\obj\Debug\net6.0\CleanArchitecture.Core.AssemblyInfoInputs.cache
+C:\projects\CleanArchitecture\src\CleanArchitecture.Core\obj\Debug\net6.0\CleanArchitecture.Core.AssemblyInfo.cs
+C:\projects\CleanArchitecture\src\CleanArchitecture.Core\obj\Debug\net6.0\CleanArchitecture.Core.csproj.CoreCompileInputs.cache
+C:\projects\CleanArchitecture\src\CleanArchitecture.Core\obj\Debug\net6.0\CleanArchitecture.Core.csproj.CopyComplete
+C:\projects\CleanArchitecture\src\CleanArchitecture.Core\obj\Debug\net6.0\CleanArchitecture.Core.dll
+C:\projects\CleanArchitecture\src\CleanArchitecture.Core\obj\Debug\net6.0\ref\CleanArchitecture.Core.dll
+C:\projects\CleanArchitecture\src\CleanArchitecture.Core\obj\Debug\net6.0\CleanArchitecture.Core.pdb

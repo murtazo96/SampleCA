@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8djgzOOoyXxuvalDzTyLc6AC4lEwTart3FVJHl9HyVplG6+LiP7FMXubQvcYg911J2/Ch/C5pvXSW84N7IlHow==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\CleanArchitecture\\src\\CleanArchitecture.SharedKernel\\CleanArchitecture.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Murtazo\\.nuget\\packages\\ardalis.specification\\5.2.0\\ardalis.specification.5.2.0.nupkg.sha512",
+    "C:\\Users\\Murtazo\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
